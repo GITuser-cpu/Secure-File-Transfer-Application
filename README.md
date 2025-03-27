@@ -48,3 +48,9 @@ This is a Flask-based web application that allows users to securely transfer fil
 
 ## License
 MIT License
+
+## OUTPUT
+![output task 2(2) ](https://github.com/user-attachments/assets/cc42d140-d67c-4416-a1b8-be6573ec63aa)
+![output task 2](https://github.com/user-attachments/assets/e6b6f4dc-3331-4ef6-87db-2d7e0c88556f)
+
+
