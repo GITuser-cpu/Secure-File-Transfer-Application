@@ -1,5 +1,17 @@
 # Secure File Transfer Web Application
 
+*COMPANY*: CODETECH IT SOLUTIONS
+
+*NAME*: NARENDRA VIJAY BORHADE
+
+*INTERN ID*: CT4MNLF
+
+*DOMAIN*: CYBER SECURITY & ETHICAL HACKING
+
+*DURATION*: 16 weeks
+
+*MENTOR*: NEELA SANTOSH
+
 ## Overview
 This is a Flask-based web application that allows users to securely transfer files by encrypting them using AES-256 and verifying their integrity with SHA-256 hashing. The application provides a user-friendly interface for uploading files, encrypting them, and viewing the results.
 
